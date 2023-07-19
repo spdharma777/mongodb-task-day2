@@ -1,0 +1,27 @@
+[
+  {
+    "userId": "1",
+    "date": "new Date(2020-10-15)",
+    "status": "absent"
+  },
+  {
+    "userId": "2",
+    "date": "new Date(2020-10-15)",
+    "status": "present"
+  },
+  {
+    "userId": "3",
+    "date": "new Date(2020-10-15)",
+    "status": "present"
+  },
+  {
+    "userId": "4",
+    "date": "new Date(2020-10-15)",
+    "status": "absent"
+  },
+  {
+    "userId": "5",
+    "date": "new Date(2020-10-31)",
+    "status": "present"
+  }
+]

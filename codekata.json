@@ -1,0 +1,32 @@
+[
+  {
+    "userId": "1",
+    "problemSolved": "102",
+    "rank": "3000",
+    "geekcoins": "2500"
+  },
+  {
+    "userId": "2",
+    "problemSolved": "140",
+    "rank": "2500",
+    "geekcoins": "3100"
+  },
+  {
+    "userId": "3",
+    "problemSolved": "170",
+    "rank": "2100",
+    "geekcoins": "3500"
+  },
+  {
+    "userId": "4",
+    "problemSolved": "70",
+    "rank": "3400",
+    "geekcoins": "1700"
+  },
+  {
+    "userId": "5",
+    "problemSolved": "45",
+    "rank": "5000",
+    "geekcoins": "1150"
+  }
+]
